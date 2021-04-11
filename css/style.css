@@ -157,4 +157,16 @@
     text-align: center;
     justify-content: space-between;
   }
+  footer {
+    font-weight: 300;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    background: gray;
+    border-top: 4px solid maroon;
+  }
+  
+  footer > p {
+    margin: 2rem;
+  }
   
